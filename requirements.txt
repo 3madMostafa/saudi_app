@@ -4,3 +4,4 @@ tensorflow
 PyPDF2
 graphviz
 streamlit-chat
+tf-keras
